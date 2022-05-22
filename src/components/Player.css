@@ -1,0 +1,28 @@
+.Player {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 2em;
+  width: 50vw;
+  height: 100%;
+  display: flex;
+}
+
+.total {
+  width: 15vw;
+  background-color: #5040de;
+  color: #f0f0f0;
+  text-shadow: 2px 2px black;
+  -webkit-text-size-adjust: 100%;
+  padding: 2%;
+  margin: 1%;
+  border-radius: 1%;
+}
+
+.score {
+  width: 15vw;
+  margin: 1%;
+  border-radius: 1%;
+  background-color: #95c3f5;
+}
